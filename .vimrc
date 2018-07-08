@@ -25,4 +25,5 @@ function! HelpInNewTab ()
 endfunction
 " Either kill the manpage with zz | :q or switch with :tabn
 
+set guioptions-=r
 colorscheme Tomorrow-Night
